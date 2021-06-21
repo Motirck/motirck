@@ -8,14 +8,14 @@
 
 📫 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/ricardoalvespaula/)](https://www.instagram.com/ricardoalvespaula/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardoalvespaula/)](https://www.instagram.com/ricardoalvespaula/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardoalvesp01)](https://twitter.com/ricardoalvesp01)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)](https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=dracula"/>-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ### Some languages that I'd love to talk about...
