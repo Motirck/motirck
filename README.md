@@ -18,8 +18,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-### Some languages that I'd love to talk about...
+### Some subjects I'd love to talk about...
 
+<code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
 <code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
 <code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
 <code><img alt="Angular" title="Angular" height="48" src="https://user-images.githubusercontent.com/38081852/120406321-f0b9a480-c320-11eb-8bb8-6f22e95a8eff.png"></code>
@@ -31,6 +32,9 @@
 <code><img alt="CSharp" title="C Sharp" height="48" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"></code>
 <code><img alt="C" title="C" height="52" src="https://user-images.githubusercontent.com/57419630/122760833-efb9ca00-d271-11eb-9348-539c0edeee34.png"></code>
 <code><img alt="C++" title="C++" height="48" src="https://user-images.githubusercontent.com/57419630/122760869-fcd6b900-d271-11eb-806d-74555059b5c7.png"></code>
+
+### 🔮 Profile Viewed Times
+![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Views)
 
 
 
