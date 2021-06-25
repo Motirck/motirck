@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Ricardo
 
+[![GitHub motirck](https://img.shields.io/github/followers/motirck?label=follow&style=social)](https://github.com/motirck)
+<sub>ㅤ</sub>
+![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Profile%20views)
+
 - 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about: 
@@ -46,6 +50,3 @@
 <code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
 <code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
 <code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-### 🔮 Profile Viewed Times
-![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Views)
