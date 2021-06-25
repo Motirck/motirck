@@ -13,12 +13,21 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardoalvesp01)](https://twitter.com/ricardoalvesp01)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)](https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)
 
+<!-- Vertical Spacer -->
+<p></p>
+
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=monokai"/>
     <img onclick="https://github.com/motirck/" align="center"   src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
 </div>
+
+<!-- Vertical Spacer -->
+<p></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
+
+<!-- Trophies -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>
 
 ### Some programming languages I'd love to talk about...
 
@@ -37,8 +46,6 @@
 <code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
 <code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
 <code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-
 
 ### 🔮 Profile Viewed Times
 ![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Views)
