@@ -14,12 +14,13 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)](https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+    <img onclick="https://github.com/motirck/" align="center"   src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=chartreuse-dark" alt="motirck" height="158"/>
 </div>
 
 ### Some programming languages I'd love to talk about...
-
 
 <code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
 <code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
@@ -41,10 +42,3 @@
 
 ### 🔮 Profile Viewed Times
 ![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Views)
-
-
-
-
-
-
-
