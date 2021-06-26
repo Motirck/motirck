@@ -37,7 +37,7 @@
 
 <code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
 <code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
-<code><img alt="Angular" title="Angular" height="48" src="https://user-images.githubusercontent.com/38081852/120406321-f0b9a480-c320-11eb-8bb8-6f22e95a8eff.png"></code>
+<code><img alt="Angular" title="Angular" height="50" src="https://user-images.githubusercontent.com/38081852/120406321-f0b9a480-c320-11eb-8bb8-6f22e95a8eff.png"></code>
 <code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
 <code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
 <code><img alt="NodeJS" title="NodeJS" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
