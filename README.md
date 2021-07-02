@@ -31,7 +31,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
 
 <!-- Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
 
 ### Some programming languages I'd love to talk about...
 
