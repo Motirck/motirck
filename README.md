@@ -32,7 +32,7 @@
 <!-- Trophies -->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
 
-### Some programming languages I'd love to talk about...
+### Some programming languages I'd like to talk about...
 
 <code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
 <code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
@@ -44,7 +44,7 @@
 <code><img alt="C" title="C" height="52" src="https://user-images.githubusercontent.com/57419630/122760833-efb9ca00-d271-11eb-9348-539c0edeee34.png"></code>
 <code><img alt="C++" title="C++" height="48" src="https://user-images.githubusercontent.com/57419630/122760869-fcd6b900-d271-11eb-806d-74555059b5c7.png"></code>
 
-### Some technologies I like...
+### Some tools I like...
 <code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
 <code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
 <code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
