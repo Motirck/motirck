@@ -51,5 +51,5 @@
 <code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
 
-### Repository with a mini-project using NodeJS, TypeORM, JWT authentication and SQLite database. Check it out, it's pretty cool!
+### Repository with a mini-project using NodeJS, TypeORM, JWT authentication and SQLite database. Check it out!
 [![](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=NLW-Rocketseat-NodeJS&bg_color=ffffff00&text_color=666666)](https://github.com/motirck/NLW-Rocketseat-NodeJS) 
