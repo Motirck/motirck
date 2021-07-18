@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about: 
-  * English / Javascript / HTML / CSS / SQL / Angular / .NET / Scrum 
+  * English | JavaScript | TypeScript | HTML | CSS | SQL | Angular | .NET | Scrum | Node.js 
   * And what you want, feel free...
 
 📫 Reach me out 👇
