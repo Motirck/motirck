@@ -22,12 +22,11 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motirck&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motirck&layout=compact&langs_count=16&theme=monokai"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="180em"/>
 </div>
 
 <!-- Vertical Spacer -->
 <p></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motirck&theme=monokai" alt="motirck" height="158"/>
 
 <!-- Trophies -->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
