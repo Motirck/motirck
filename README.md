@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Profile%20views)
 
 - 🔭 I’m currently working on [CWI Software](https://cwi.com.br/)
-- 🌱 I’m currently learning Tests in .NET with Xunit
+- 🌱 I’m currently learning Docker
 - 💬 Ask me about: 
   * English | JavaScript | TypeScript | HTML | CSS | SQL | Angular | .NET | Scrum | Node.js 
   * And what you want, feel free...
