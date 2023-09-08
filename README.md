@@ -31,11 +31,11 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
 
 ### My Certifications:
-<img alt="Scrum" title="Scrum" height="200" src="https://github.com/Motirck/motirck/assets/57419630/b565a5a4-e6e5-4c67-b78c-164b4b74ad74"> &nbsp;
-<img alt="LGPD" title="LGPD" height="200" src="https://github.com/Motirck/motirck/assets/57419630/31e5c984-a326-4918-85ae-8fe87bc5e89c"> &nbsp;
-<img alt="Remote Work" title="Remote Work" height="200" src="https://github.com/Motirck/motirck/assets/57419630/ba5fb2ab-1dc9-4ed9-bf7b-be1a45486ec3"> <br>
-<img alt="Life Long Learning" title="Life Long Learning" height="200" src="https://github.com/Motirck/motirck/assets/57419630/a374f3b6-c4ca-4b42-8073-3e824856704f">
 <img alt="Docker" title="Docker" height="220" src="https://github.com/Motirck/motirck/assets/57419630/9923a466-a86a-4db2-9ff3-8d6a63d2f500">
+<img alt="Scrum" title="Scrum" height="200" src="https://github.com/Motirck/motirck/assets/57419630/b565a5a4-e6e5-4c67-b78c-164b4b74ad74"> &nbsp;
+<img alt="LGPD" title="LGPD" height="200" src="https://github.com/Motirck/motirck/assets/57419630/31e5c984-a326-4918-85ae-8fe87bc5e89c"> <br>
+<img alt="Remote Work" title="Remote Work" height="200" src="https://github.com/Motirck/motirck/assets/57419630/ba5fb2ab-1dc9-4ed9-bf7b-be1a45486ec3"> &nbsp;
+<img alt="Life Long Learning" title="Life Long Learning" height="200" src="https://github.com/Motirck/motirck/assets/57419630/a374f3b6-c4ca-4b42-8073-3e824856704f"> &nbsp;
 
 ### Some programming languages I'd like to talk about...
 
