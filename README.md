@@ -37,6 +37,10 @@
 <img alt="Remote Work" title="Remote Work" height="200" src="https://github.com/Motirck/motirck/assets/57419630/ba5fb2ab-1dc9-4ed9-bf7b-be1a45486ec3"> &nbsp;
 <img alt="Life Long Learning" title="Life Long Learning" height="200" src="https://github.com/Motirck/motirck/assets/57419630/a374f3b6-c4ca-4b42-8073-3e824856704f"> &nbsp;
 
+### Databases:
+<img alt="SQLServer" title="SQLServer" height="55" src="https://github.com/Motirck/motirck/assets/57419630/c9f3b5e8-c87d-4497-956c-dd4ee6c43b4f"> &nbsp;
+<img alt="MongoDB" title="MongoDB" height="55" src="https://github.com/Motirck/motirck/assets/57419630/20006860-b09b-4800-b148-9ec8359cfe35"> &nbsp;
+
 ### Some programming languages I'd like to talk about...
 
 <!-- <img alt="NodeJS" title="NodeJS" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp --> 
