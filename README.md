@@ -4,10 +4,9 @@
 <sub>ㅤ</sub>
 ![](https://komarev.com/ghpvc/?username=motirck&style=flat-square&color=13b982&label=Profile%20views)
 
-- 🔭 I’m currently working on [Insight Global](https://insightglobal.com/)
+- 🔭 I’m currently working at [Insight Global](https://insightglobal.com/)
 - 💬 Ask me about:
-  * .NET | ASP.NET Core | JS | TS | HTML | CSS | SQL | Angular | Scrum
-  * And what you want, feel free...
+  * .NET | ASP.NET Core | JS | TS | HTML | CSS | SQL | Angular | Scrum | Azure | MongoDB
 
 📫 Reach me out 👇
 
