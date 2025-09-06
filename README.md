@@ -200,6 +200,7 @@ A look at the tools and technologies I use to bring ideas to life.
 </tr>
 </table>
 </div>
+
 ---
 
 ## 🏗️ Architecture & Methodologies
