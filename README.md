@@ -6,13 +6,47 @@
 
 - 🔭 I’m currently working at [Insight Global](https://insightglobal.com/)
 - 💬 Ask me about:
-  * .NET | ASP.NET Core | JS | TS | HTML | CSS | SQL | Angular | Scrum | Azure | MongoDB
+  
+GitHub Copilot
+JetBrains AI
+C#
+ASP.NET Core
+.NET
+Entity Framework
+RESTful
+SignalR
+Microservices
+Clouds (Azure and AWS)
+Rider IDE (JetBrains)
+Dynatrace
+Grafana
+ConfigCat (Feature Flag/ Feature Toggle)
+Docker
+Kubernetes
+Xunit (tests)
+Redis
+Oracle 
+SQLServer
+MongoDB
+Javascript / Typescript
+Angular
+GitHub Actions
+Azure (ADO)
+BitBucket
+Jira
+GSuite
+Slack 
+Microsoft Teams
+Agile Methodologies
 
-📫 Reach me out 👇
+### Repository with a modern, real-time chat application built with ASP.NET Core, SignalR, and RabbitMQ featuring live messaging, user authentication with Identity, and stock quote integration. Check it out!
+[![](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=chat-app&bg_color=ffffff00&text_color=666666)](https://github.com/motirck/chat-app)
+
+📫 Reach out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardoalvespaula/)](https://www.instagram.com/ricardoalvespaula/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardoalvesp01)](https://twitter.com/ricardoalvesp01)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardoalvesp01)](https://twitter.com/ricardoalvesp01) -->
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)](https://www.youtube.com/channel/UCh4-Ptt4gukQenRWgyC2OXA)-->
 
 <!-- Vertical Spacer -->
@@ -63,6 +97,3 @@
 <!-- <img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" /> &nbsp -->
 <!--  <img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/> &nbsp -->
 <!--  <img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"/> -->
-
-### Repository with a project using .NET, Entity Framework, DDD, CQRS, Event Sourcing, migrations, etc. Check it out!
-[![](https://github-readme-stats.vercel.app/api/pin/?username=motirck&repo=modelagem-dominios-ricos&bg_color=ffffff00&text_color=666666)](https://github.com/motirck/modelagem-dominios-ricos)
